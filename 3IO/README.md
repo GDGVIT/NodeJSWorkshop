@@ -1,4 +1,4 @@
-## MY FIRST I/O! (Exercise 3 of 13)  
+## MY FIRST I/O!  
    
   Write a program that uses a single synchronous filesystem operation to  
   read a file and print the number of newlines (\n) it contains to the  
